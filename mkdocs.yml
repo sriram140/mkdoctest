@@ -1,2 +1,5 @@
 site_name: My Docs
-theme: readthedocs
+nav:
+  - Home: index.md
+  - Test: test.md
+theme: material
